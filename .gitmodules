@@ -1,0 +1,6 @@
+[submodule "Packages/GF-Core"]
+	path = Packages/GF-Core
+	url = https://github.com/shaun-he/GF-Core
+[submodule "Packages/GF-EventSystem"]
+	path = Packages/GF-EventSystem
+	url = https://github.com/shaun-he/GF-EventSystem
