@@ -90,13 +90,13 @@
       }
     },
     "gameframework.core": {
-      "version": "file:E:/WorkSpace/GitReposity/GF/Packages/GF-Core",
+      "version": "file:../../Packages/GF-Core",
       "depth": 0,
       "source": "local",
       "dependencies": {}
     },
     "gameframework.eventsystem": {
-      "version": "file:E:/WorkSpace/GitReposity/GF/Packages/GF-EventSystem",
+      "version": "file:../../Packages/GF-EventSystem",
       "depth": 0,
       "source": "local",
       "dependencies": {}
