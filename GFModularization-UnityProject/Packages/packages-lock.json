@@ -95,6 +95,12 @@
       "source": "local",
       "dependencies": {}
     },
+    "gameframework.debugger": {
+      "version": "file:E:/WorkSpace/GitReposity/GF/Packages/GF-Debugger",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "gameframework.eventsystem": {
       "version": "file:../../Packages/GF-EventSystem",
       "depth": 0,

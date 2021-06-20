@@ -4,3 +4,6 @@
 [submodule "Packages/GF-EventSystem"]
 	path = Packages/GF-EventSystem
 	url = https://github.com/shaun-he/GF-EventSystem
+[submodule "Packages/GF-Debugger"]
+	path = Packages/GF-Debugger
+	url = https://github.com/shaun-he/GF-Debugger

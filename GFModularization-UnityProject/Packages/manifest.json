@@ -9,6 +9,7 @@
     "com.unity.timeline": "1.4.8",
     "com.unity.ugui": "1.0.0",
     "gameframework.core": "file:../../Packages/GF-Core",
+    "gameframework.debugger": "file:E:/WorkSpace/GitReposity/GF/Packages/GF-Debugger",
     "gameframework.eventsystem": "file:../../Packages/GF-EventSystem",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",

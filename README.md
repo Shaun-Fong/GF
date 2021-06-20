@@ -10,13 +10,11 @@ Please take a look [GameFramework ](https://github.com/EllanJiang/GameFramework)
 
 And thanks to [EllanJiang](https://github.com/EllanJiang).
 
-
-
 ## TODO
 
 > [~~GF-EventSystem~~](https://github.com/shaun-he/GF-EventSystem)
 > 
-> GF-Debugger
+> [~~GF-Debugger~~](https://github.com/shaun-he/GF-Debugger)
 > 
 > GF-ObjectPoolSystem
 > 
