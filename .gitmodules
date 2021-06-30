@@ -7,3 +7,6 @@
 [submodule "Packages/GF-Debugger"]
 	path = Packages/GF-Debugger
 	url = https://github.com/shaun-he/GF-Debugger
+[submodule "Packages/GF-ObjectPoolSystem"]
+	path = Packages/GF-ObjectPoolSystem
+	url = https://github.com/shaun-he/GF-ObjectPoolSystem

@@ -107,6 +107,12 @@
       "source": "local",
       "dependencies": {}
     },
+    "gameframework.objectpoolsystem": {
+      "version": "file:E:/WorkSpace/GitReposity/GF/Packages/GF-ObjectPoolSystem",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
