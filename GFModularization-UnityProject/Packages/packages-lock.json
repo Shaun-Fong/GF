@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.unity.collab-proxy": {
-      "version": "1.5.7",
+      "version": "1.7.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -26,7 +26,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.8",
+      "version": "2.0.11",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -49,7 +49,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.1.24",
+      "version": "1.1.27",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -96,7 +96,7 @@
       "dependencies": {}
     },
     "gameframework.debugger": {
-      "version": "file:E:/WorkSpace/GitReposity/GF/Packages/GF-Debugger",
+      "version": "file:../../Packages/GF-Debugger",
       "depth": 0,
       "source": "local",
       "dependencies": {}
@@ -107,8 +107,14 @@
       "source": "local",
       "dependencies": {}
     },
+    "gameframework.fsmsystem": {
+      "version": "file:../../Packages/GF-FsmSystem",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "gameframework.objectpoolsystem": {
-      "version": "file:E:/WorkSpace/GitReposity/GF/Packages/GF-ObjectPoolSystem",
+      "version": "file:../../Packages/GF-ObjectPoolSystem",
       "depth": 0,
       "source": "local",
       "dependencies": {}
