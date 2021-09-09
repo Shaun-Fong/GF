@@ -10,3 +10,6 @@
 [submodule "Packages/GF-ObjectPoolSystem"]
 	path = Packages/GF-ObjectPoolSystem
 	url = https://github.com/shaun-he/GF-ObjectPoolSystem
+[submodule "Packages/GF-FsmSystem"]
+	path = Packages/GF-FsmSystem
+	url = https://github.com/shaun-he/GF-FsmSystem
